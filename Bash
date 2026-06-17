@@ -1,0 +1,4 @@
+python vehicle_info.py TS09AB1234
+# or make it global
+chmod +x vehicle_info.py
+./vehicle_info.py TS09AB1234
